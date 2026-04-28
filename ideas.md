@@ -1,0 +1,1 @@
+A leaderboard that calculates an elo based on performance in a daily game?
